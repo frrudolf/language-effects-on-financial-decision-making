@@ -13,4 +13,4 @@ The analyses in this research and its associated code was heavily inspired by th
 - Silge, J., & Robinson, D. (2016). tidytext: Text Mining and Analysis Using Tidy Data Principles in R. The Journal of Open Source Software, 1, 3. https://doi.org/10.21105/joss.00037
 - Bail, C. (n.d.). Text as Data [MOOC]. Duke University, North Carolina. Source: https://cbail.github.io/textasdata/Text_as_Data.html (viewed November 10, 2023). Specific tutorial available: https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html. Also available on GitHub: https://github.com/cbail/textasdata
 - Puschmann, C., Haim, M. (2019). Automated Content Analysis with R [MOOC]. Available: https://content-analysis-with-r.com/index.html. Also available on GitHub: https://content-analysis-with-r.com/
-- 
+
