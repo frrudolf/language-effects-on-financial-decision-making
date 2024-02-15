@@ -33,7 +33,7 @@ for (i in 2:length(packages))
   install.packages(packages[i])
 }
 lapply(packages, require, character.only = TRUE)
-# (it helped that some of the packages are loaded directly before using the part in which they are needed)
+# (it helped that some of the packages are loaded directly before using the part in which they are needed, especially when executing in multiple sessions)
 
 # loading the data set - data acquisition
 library(readxl)
