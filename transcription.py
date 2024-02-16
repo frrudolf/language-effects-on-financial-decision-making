@@ -1,5 +1,5 @@
 # This code comes directly from Kevin Stratvert (January 18, 2023) and is altered to my needs
-
+# install Whisper AI
 !pip install git+https://github.com/openai/whisper.git
 !sudo apt update && sudo apt install ffmpeg
 # Collecting git+https://github.com/openai/whisper.git
